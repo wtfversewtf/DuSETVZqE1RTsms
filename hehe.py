@@ -7,6 +7,7 @@ def clrscr():
 
 # Thêm dòng thông báo
 print("Please wait, we are checking for the libraries...")
+clrscr()
 
 
 
