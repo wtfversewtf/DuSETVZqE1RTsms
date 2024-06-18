@@ -8,7 +8,6 @@ def clrscr():
 # Thêm dòng thông báo
 print("Please wait, we are checking for the libraries...")
 clrscr()
-abc
 
 # Hàm để cài đặt thư viện
 def install(package):
