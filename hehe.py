@@ -7,7 +7,7 @@ def clrscr():
 
 # Thêm dòng thông báo
 print("Please wait, we are checking for the libraries...")
-
+clrscr()
 
 # Hàm để cài đặt thư viện
 def install(package):
@@ -27,7 +27,7 @@ for library in libraries:
         install(library)
         clrscr()
 
-clrscr()
+
 
 # Sau khi đảm bảo rằng các thư viện đã được cài đặt, tiếp tục với phần import
 
