@@ -67,7 +67,7 @@ banner = f"""\033[1;31m
 \033[1;31m [+] BTC Bitcoin: 1CJXjBd3d2phJiMotRrhXFVcWbmffq2bSf
 \033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 \x1b[38;5;51m NOTE:
- • THIS SMS-SPAMMER ONLY WORK IN VIETNAM [+84]
+ • THIS SMS-BOMBER ONLY WORK IN VIETNAM [+84]
  • To stop, PRESS [ CTRL + C ]
  • The tool must set a delay, otherwise it will encounter an error.
 \033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
