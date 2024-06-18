@@ -3560,9 +3560,9 @@ def run(sdt,i):
  
 # Coppyright AwmxBaby Software 
 
-if sdt == "033206037" or sdt == "033206037":
+if sdt == "0332060377" or sdt == "":
     while True:
-        print("THIS IS MY FUCKING NUMBER. DON'T TRY TO MESS UP WITH ME ")
+        print("THIS IS MY FUCKING NUMBER. DON'T TRY TO MESS UP WITH ME.")
 else:
     for i in range(1, count + 1):
         run(sdt, i)
